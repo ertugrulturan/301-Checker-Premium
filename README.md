@@ -13,7 +13,7 @@ Testing script video
 
 Compulsory
 ---
-* Possible redirect sites list
+* Possible redirect (spam) sites list
 
 Features
 ---
