@@ -1,4 +1,4 @@
-301 Checker (Google ip + Useragent use script)
+301 Checker (Google ip + Google Useragent use script)
 =========
 
 <h2>Setup/Use</h2>
